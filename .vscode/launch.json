@@ -1,0 +1,238 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Chapter3Exercise",
+            "request": "launch",
+            "mainClass": "Chapter3Exercise",
+            "projectName": "repos java_ab3a880e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ChineseZodiac",
+            "request": "launch",
+            "mainClass": "ChineseZodiac",
+            "projectName": "repos java_ab3a880e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lottery",
+            "request": "launch",
+            "mainClass": "Lottery",
+            "projectName": "repos java_ab3a880e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LeapYear",
+            "request": "launch",
+            "mainClass": "LeapYear",
+            "projectName": "repos java_ab3a880e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestBooleanOperators",
+            "request": "launch",
+            "mainClass": "TestBooleanOperators",
+            "projectName": "repos java_ab3a880e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ComputeTaxes",
+            "request": "launch",
+            "mainClass": "ComputeTaxes",
+            "projectName": "repos java_ab3a880e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ComputeAndInterpretBMI",
+            "request": "launch",
+            "mainClass": "ComputeAndInterpretBMI",
+            "projectName": "repos java_ab3a880e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SubtractionQuiz",
+            "request": "launch",
+            "mainClass": "SubtractionQuiz",
+            "projectName": "repos java_ab3a880e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Grades",
+            "request": "launch",
+            "mainClass": "Grades",
+            "projectName": "repos java_ab3a880e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NestedIfElse",
+            "request": "launch",
+            "mainClass": "NestedIfElse",
+            "projectName": "repos java_ab3a880e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SimpleIfDemo",
+            "request": "launch",
+            "mainClass": "SimpleIfDemo",
+            "projectName": "repos java_ab3a880e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AdditionQuiz",
+            "request": "launch",
+            "mainClass": "AdditionQuiz",
+            "projectName": "repos java_ab3a880e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IfElseRadius",
+            "request": "launch",
+            "mainClass": "IfElseRadius",
+            "projectName": "repos java_ab3a880e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Chapter2Exercise",
+            "request": "launch",
+            "mainClass": "Chapter2Exercise",
+            "projectName": "repos java_ab3a880e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CountingMonetaryUnits",
+            "request": "launch",
+            "mainClass": "CountingMonetaryUnits",
+            "projectName": "repos java_ab3a880e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - QuadraticFormula",
+            "request": "launch",
+            "mainClass": "QuadraticFormula",
+            "projectName": "repos java_ab3a880e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ComputeLoan",
+            "request": "launch",
+            "mainClass": "ComputeLoan",
+            "projectName": "repos java_ab3a880e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SalesTax",
+            "request": "launch",
+            "mainClass": "SalesTax",
+            "projectName": "repos java_ab3a880e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ShowCurrentTime",
+            "request": "launch",
+            "mainClass": "ShowCurrentTime",
+            "projectName": "repos java_ab3a880e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FahrenheitToCelsius",
+            "request": "launch",
+            "mainClass": "FahrenheitToCelsius",
+            "projectName": "repos java_ab3a880e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExponentialOperator",
+            "request": "launch",
+            "mainClass": "ExponentialOperator",
+            "projectName": "repos java_ab3a880e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DisplayTime",
+            "request": "launch",
+            "mainClass": "DisplayTime",
+            "projectName": "repos java_ab3a880e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InputNumbers",
+            "request": "launch",
+            "mainClass": "InputNumbers",
+            "projectName": "repos java_ab3a880e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ComputeAreaWithConstant",
+            "request": "launch",
+            "mainClass": "ComputeAreaWithConstant",
+            "projectName": "repos java_ab3a880e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ComputeAverage",
+            "request": "launch",
+            "mainClass": "ComputeAverage"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ComputeAreaWithConsoleINput",
+            "request": "launch",
+            "mainClass": "ComputeAreaWithConsoleINput"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test1",
+            "request": "launch",
+            "mainClass": "Test1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Chapter1Exercise",
+            "request": "launch",
+            "mainClass": "Chapter1Exercise"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ShowLogicErrors",
+            "request": "launch",
+            "mainClass": "ShowLogicErrors"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ShowLogicError",
+            "request": "launch",
+            "mainClass": "ShowLogicError"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ComputeExpresion",
+            "request": "launch",
+            "mainClass": "ComputeExpresion"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WhileLoop",
+            "request": "launch",
+            "mainClass": "WhileLoop"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Strings",
+            "request": "launch",
+            "mainClass": "Strings"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Variables",
+            "request": "launch",
+            "mainClass": "Variables"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Hello",
+            "request": "launch",
+            "mainClass": "Hello"
+        }
+    ]
+}
